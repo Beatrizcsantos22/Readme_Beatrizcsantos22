@@ -11,7 +11,7 @@
 
 <div style="display: inline-block">
   <img align="center" alt="Sharp.bia" height="50" width="40" src="https://devicon-website.vercel.app/api/csharp/original.svg">
-  <img align = "center" alt = "C.bia" height = "50" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+  <img align = "center" alt = "C.bia" height = "50" width = "40" src=" https://devicon-website.vercel.app / api/ c / original .svg " > 
 
 
 </div>
