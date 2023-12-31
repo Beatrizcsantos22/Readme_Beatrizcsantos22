@@ -20,7 +20,7 @@
 ##
 
 <div>
-  <a>
+  <a href="https://www.youtube.com/channel/UC44Y7HUcjOu200dbBYjSjjQ" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <a href="AQUI VAI O LINK DO INSTAGRAM" target="_blank">
@@ -33,6 +33,8 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
+
+![Snake animation](https://github.com/Beatrizcsantos22/Beatrizcsantos22/blob/output/github-contribution-grid-snake.svg)
 
 
 
