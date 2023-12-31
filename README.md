@@ -11,8 +11,8 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="sharp.bia" height="30" width="40" 
-   <img src=" https://devicon-website.vercel.app / api/ csharp / original .svg "/>
+  <img align="center" alt ="Sharp.bia"height="30" width="40" 
+   src = " https://devicon-website.vercel.app / api/ csharp / original .svg " > 
   <img align="center" alt="c.bia" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
   <img align="center" alt="Dev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
