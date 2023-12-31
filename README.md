@@ -11,7 +11,7 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dev-Js" height="30" width="40" 
+  <img align="center" alt="sharp" height="30" width="40" 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
   <img align="center" alt="Dev-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Dev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
