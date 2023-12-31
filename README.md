@@ -4,6 +4,10 @@
 -Pronomes ela/dela
 
 
+href="https://github.com/Beatrizcsantos22">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beatrizcsantos22&show_icons=true&theme=dracula&include_all_commits
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beatrizcsantos22&layout=compact&langs_count=7&theme=dra
+
 
 
 
