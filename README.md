@@ -1,6 +1,7 @@
 # Olá! Eu sou a Beatriz Caroline dos Santos 22 
 -Sou estudante do curso ciência da computação
-br<-Estudando C#, com o objetivo de se tornar um dev asp.net>
+
+-Estudando C#, com o objetivo de se tornar um dev asp.net
 
 -Pronomes ela/dela
 <div align="center">
