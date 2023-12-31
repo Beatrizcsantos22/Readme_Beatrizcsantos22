@@ -13,7 +13,8 @@
   <img align="center" alt="Sharp.bia" height="50" width="40" src="https://devicon-website.vercel.app/api/csharp/original.svg">
   <img align="center" alt="C.bia" height="50" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
   <img align="center" alt="python.bia" height="50" width="40" src="https://devicon-website.vercel.app/api/python/original.svg">
-<img align="center" alt="sqlserver.bia" height="50" width="40" src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain.svg?cor=%23909DAA">
+   <i class = "devicon- microsoftsqlserver - plain " estilo = "cor: #909DAA "</i>
+<link rel = "folha de estilo" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" >
 
 </div>
 
