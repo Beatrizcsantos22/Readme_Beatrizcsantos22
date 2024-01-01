@@ -19,12 +19,11 @@
 </div>
 
 <div>
-   <a href="AQUI VAI O LINK DO LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+   <a href="https://www.linkedin.com/in/beatriz-caroline-a759b323b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="likedin">
   </a>
 </div>
 
-![Snake animation](https://github.com/Beatrizcsantos22/Beatrizcsantos22/blob/main/github-contribution-grid-snake.svg)
 
             
           
