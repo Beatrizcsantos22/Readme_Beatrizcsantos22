@@ -15,9 +15,14 @@
   <img align="center" alt="Sharp.bia" height="50" width="40" src="https://devicon-website.vercel.app/api/csharp/original.svg">
   <img align="center" alt="C.bia" height="50" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
   <img align="center" alt="python.bia" height="50" width="40" src="https://devicon-website.vercel.app/api/python/original.svg">
- <img align="center" alt="sqlserver.bia" height="50" width="40" src="https://icons8.com.br/icon/laYYF3dV0Iew/servidor-microsoft-sql">
+   
 </div>
 
+<div>
+   <a href="AQUI VAI O LINK DO LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
             
           
