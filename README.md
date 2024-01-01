@@ -24,6 +24,8 @@
   </a>
 </div>
 
+![Snake animation](https://github.com/Beatrizcsantos22/Beatrizcsantos22/blob/output/github-contribution-grid-snake.svg)
+
             
           
 
