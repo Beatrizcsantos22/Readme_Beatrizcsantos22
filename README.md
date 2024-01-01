@@ -12,9 +12,9 @@
 </div>
 
 <div style="display: inline-block">
-  <img align="center" alt="Sharp.bia" height="50" width="50" src="https://devicon-website.vercel.app/api/csharp/original.svg">
-  <img align="center" alt="C.bia" height="50" width="50" src="https://devicon-website.vercel.app/api/c/original.svg">
-  <img align="center" alt="python.bia" height="50" width="50" src="https://devicon-website.vercel.app/api/python/original.svg">
+  <img align="center" alt="Sharp.bia" height="50" width="45" src="https://devicon-website.vercel.app/api/csharp/original.svg">
+  <img align="center" alt="C.bia" height="50" width="45" src="https://devicon-website.vercel.app/api/c/original.svg">
+  <img align="center" alt="python.bia" height="50" width="45" src="https://devicon-website.vercel.app/api/python/original.svg">
    
 </div>
 
