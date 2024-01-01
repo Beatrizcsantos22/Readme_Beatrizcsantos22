@@ -1,9 +1,9 @@
 # Olá! Eu sou a Beatriz Caroline dos Santos 22 
--Sou estudante do curso ciência da computação
+-Sou estudante do curso ciência da computação 🖥️
 
--Estudando C#, com o objetivo de se tornar  dev asp.net
+-Estudando C#, com o objetivo de se tornar  dev asp.net📚
 
--Pronomes ela/dela
+-Pronomes ela/dela 👩🏻
 <div align="center">
   <a href="https://github.com/Beatrizcsantos22">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beatrizcsantos22&show_icons=true&theme=cobalt&include_all_commits=false&count_private=false"/>
