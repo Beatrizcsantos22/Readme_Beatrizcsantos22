@@ -8,12 +8,17 @@
   <a href="https://github.com/Beatrizcsantos22">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Beatrizcsantos22&show_icons=true&theme=cobalt&include_all_commits=false&count_private=false" />
 </div>
-<div style="display: inline-block">
-  <img align="center" alt="Sharp.bia" height="50" width="45" src="https://devicon-website.vercel.app/api/csharp/original.svg">
-  <img align="center" alt="C.bia" height="50" width="45" src="https://devicon-website.vercel.app/api/c/original.svg">
-  <img align="center" alt="python.bia" height="50" width="45" src="https://devicon-website.vercel.app/api/python/original.svg">
-   
-</div>
+<p align="center">
+  <a href="#">
+    <img alt="Sharp.bia" height="50" width="45" src="https://devicon-website.vercel.app/api/csharp/original.svg">
+  </a>
+  <a href="#">
+    <img alt="C.bia" height="50" width="45" src="https://devicon-website.vercel.app/api/c/original.svg">
+  </a>
+  <a href="#">
+    <img alt="Python.bia" height="50" width="45" src="https://devicon-website.vercel.app/api/python/original.svg">
+  </a>
+</p>
 
 <div>
    <a href="mailto:beatrizcaroline005@gmail.com">
