@@ -23,12 +23,10 @@
   <br>
   <a href="" target="_blank"><img src="https://www.linkedin.com/in/beatriz-caroline-a759b323b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a> 
  
-  ![Snake animation](https://github.com/Beatrizcsantos/Beatrizcsantos22/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Beatrizcsantos22&repo=Beatrizcsantos22)](https://github.com/Beatrizcsantos22/Beatrizcsantos22)
-
 
 
 
