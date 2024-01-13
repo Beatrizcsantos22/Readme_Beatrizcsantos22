@@ -27,9 +27,7 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Beatrizcsantos22&repo=Beatrizcsantos22&theme=react)](https://github.com/Beatrizcsantos22/Beatrizcsantos22)
-
-
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Beatrizcsantos22&repo=Beatrizcsantos22)](https://github.com/Beatrizcsantos22/Beatrizcsantos22)
 
 
 
