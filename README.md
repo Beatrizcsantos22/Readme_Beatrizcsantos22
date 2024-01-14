@@ -23,9 +23,8 @@
 
   <img align="center" alt="C.bia" height="45" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
     <a> <br>
-   <img align ="left href= https:https://www.linkedin.com/in/beatriz-caroline-a759b323b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
- " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+  <a href="https: https://www.linkedin.com/in/beatriz-caroline-a759b323b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="_blank"><img
+                                                                                          alignleft src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
   <a href="mailto:beatrizcaroline005@gmail.com">
