@@ -25,6 +25,7 @@
     <a> <br>
    <img align ="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="likedin">
   </a>
+  
 
   <a href="mailto:beatrizcaroline005@gmail.com">
     <img  align="left"src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
