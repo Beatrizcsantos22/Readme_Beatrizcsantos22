@@ -22,7 +22,7 @@
   <img align="center" alt="Csharp.bia" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
   <img align="center" alt="C.bia" height="45" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
-    <a>
+    <a> <br>
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="likedin">
   </a>
   
