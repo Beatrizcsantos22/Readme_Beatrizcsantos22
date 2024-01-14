@@ -21,7 +21,7 @@
   <img align="center" alt="Python.bia" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp.bia" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-  <img align="center" alt="C.bia" height="50" width="45" src="https://devicon-website.vercel.app/api/c/original.svg">
+  <img align="center" alt="C.bia" height="45" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
     
 
 
