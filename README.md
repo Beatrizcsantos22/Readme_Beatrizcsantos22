@@ -7,8 +7,8 @@
 
  <div>
   <a href="https://github.com/Beatrizcsantos22">
-  <img height="161em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Beatrizcsantos22&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="118em"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beatrizcsantos22&layout=compact&langs_count=7&theme=highcontrast" />
+  <img height="161em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Beatrizcsantos22&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="118em"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beatrizcsantos22&layout=compact&langs_count=7&theme=gruvbox" />
 
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
