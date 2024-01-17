@@ -10,7 +10,7 @@
   <img height="155em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Beatrizcsantos22&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="130em"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beatrizcsantos22&layout=compact&langs_count=7&theme=radical" />
 
-  <img align="center" width="148" height="100" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+  <img align="center" width="100" height="100" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
  <br>
 <div  align="center"> 
