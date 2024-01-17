@@ -7,7 +7,7 @@
 
  <div>
   <a href="https://github.com/Beatrizcsantos22">
-  <img height="170em"   align="center = 10px" src="https://github-readme-stats.vercel.app/api?username=Beatrizcsantos22&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em"   align="center = 10px" src="https://github-readme-stats.vercel.app/api?username=Beatrizcsantos22&show_icons=false&theme=radical&include_all_commits=true&count_private=false"/>
   <img height="155em "  align="right  " src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beatrizcsantos22&layout=compact&langs_count=7&theme=radical" />
 
   
