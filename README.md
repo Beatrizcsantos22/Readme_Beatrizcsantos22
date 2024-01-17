@@ -24,9 +24,6 @@
   <img align="center" alt="C.bia" height="45" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
     <a> <br>
 
-  <a href="mailto:beatrizcaroline005@gmail.com">
-    <img  align="left"src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
 
 </div>
 
