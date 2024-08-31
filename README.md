@@ -1,4 +1,4 @@
-# Olá! Eu sou a Beatriz Caroline dos Santos 22 
+# Olá! Eu sou a Beatriz Caroline 
 -Sou estudante do curso ciência da computação 🖥️
 
 -Estudando C#, com o objetivo de se tornar  dev .NET📚
